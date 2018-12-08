@@ -73,7 +73,7 @@ define(["require", "exports", "@angular/core", "@ionic-native/core"], function (
         CallNumber = __decorate([
             core_2.Plugin({
                 pluginName: 'AKCallNumber',
-                plugin: '@and_roux/call-number-modified',
+                plugin: 'ak-call-number-modified',
                 pluginRef: 'AKCallNumber',
                 repo: 'https://github.com/Andrewpk/CordovaCallNumberPlugin',
                 platforms: ['Android', 'iOS']

@@ -9,7 +9,7 @@
   "homepage": "https://github.com/Andrewpk/ionic-native-call-number-modified",
   "license": "MIT",
   "module": "index.js",
-  "name": "@and_roux/ionic-native-call-number-modified",
+  "name": "ak-ionic-native-call-number-modified",
   "peerDependencies": {
     "@ionic-native/core": "^4.11.0",
     "@angular/core": "*",
@@ -20,5 +20,5 @@
     "url": "git+https://github.com/Andrewpk/ionic-native-call-number-modified.git"
   },
   "typings": "index.d.ts",
-  "version": "4.15.0"
+  "version": "4.15.1"
 }
