@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "ionic, andrew kehrig"
+  },
+  "bugs": {
+    "url": "https://github.com/Andrewpk/ionic-native-call-number-modified/issues"
+  },
+  "description": "Ionic Native forked call-number plugin",
+  "homepage": "https://github.com/Andrewpk/ionic-native-call-number-modified",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@and_roux/ionic-native-call-number-modified",
+  "peerDependencies": {
+    "@ionic-native/core": "^4.11.0",
+    "@angular/core": "*",
+    "rxjs": "^5.5.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrewpk/ionic-native-call-number-modified.git"
+  },
+  "typings": "index.d.ts",
+  "version": "4.15.0"
+}
